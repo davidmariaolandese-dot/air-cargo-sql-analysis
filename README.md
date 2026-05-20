@@ -60,6 +60,15 @@ air-cargo-sql-analysis/
 └── documentation/
 ```
 
-## Author
+Sample Business Questions
+Which passengers travelled on routes between 1 and 25?
+What is the total revenue generated from business class tickets?
+Which customers booked tickets with Emirates?
+Which routes are longer than 2,000 miles?
+Which travel classes receive complimentary services?
+Business Value
 
+This project demonstrates how SQL can be used to analyze airline operations, customer behavior, ticket sales, and route performance in order to support better business decisions.
+
+## Author
 David Maria Olandese
