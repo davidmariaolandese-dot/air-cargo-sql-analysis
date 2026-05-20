@@ -1,2 +1,65 @@
-# air-cargo-sql-analysis
-SQL business analysis project focused on air cargo operations, passenger trends, route performance, and ticket revenue insights.
+# Air Cargo SQL Analysis
+
+## Project Overview
+
+This project focuses on analyzing an air cargo and airline operations database using SQL.
+
+The goal is to extract business insights related to passengers, routes, ticket sales, revenue, customer behavior, and flight operations.
+
+## Business Objectives
+
+- Identify regular customers and passengers
+- Analyze the busiest routes
+- Calculate ticket sales and revenue by travel class
+- Extract customer and booking information
+- Use SQL procedures, views, constraints, indexes, and functions
+- Support operational and customer-centric decision-making
+
+## Tools Used
+
+- MySQL
+- SQL
+- MySQL Workbench
+- ER Diagram
+- Stored Procedures
+- Views
+- Window Functions
+
+## Key SQL Concepts Applied
+
+- Joins
+- Group By and Having
+- Window Functions
+- Views
+- Stored Procedures
+- Stored Functions
+- Cursors
+- Constraints
+- Indexing
+- Rollup
+- Execution Plan Analysis
+
+## Main Analysis Areas
+
+- Passenger analysis
+- Route analysis
+- Ticket revenue analysis
+- Business class customer analysis
+- Complimentary service eligibility
+- Distance-based route classification
+
+## Repository Structure
+
+```text
+air-cargo-sql-analysis/
+│
+├── README.md
+├── sql/
+├── diagrams/
+├── screenshots/
+└── documentation/
+```
+
+## Author
+
+David Maria Olandese
